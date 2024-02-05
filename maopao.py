@@ -11,7 +11,9 @@ def bubble_sort(arr):
     return arr
 
 # 测试冒泡排序函数
+# 你好
 arr = [64, 34, 25, 12, 22, 11, 90]
 print("冒泡排序后的数组:", arr)
 sorted_arr = bubble_sort(arr)
 print("冒泡排序后的数组:", sorted_arr)
+
